@@ -146,13 +146,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Suggested GitHub project structure
-#
-# InsuranceProcessor/
-# ├── Raw Images/                  # Input folder for raw images
-# ├── Processed Images/            # Output folder for processed images
-# ├── config.json                  # Configuration file
-# ├── insurance_processor.py       # Main Python script
-# ├── requirements.txt             # Python dependencies
-# └── README.md                    # Project documentation
