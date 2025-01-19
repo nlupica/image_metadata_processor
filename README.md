@@ -12,7 +12,7 @@ The Image Metadata Processor is a Python-based tool that extracts metadata from 
 
 - Python 3.7 or higher
 - Pip (Python package installer)
-- Images from the same source or with the same metadata fields.
+- Images from the same camera source or with the same metadata fields.
 
 ## Setup Steps
 
