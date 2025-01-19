@@ -1,0 +1,24 @@
+{
+  "raw_dir": "Raw Images",
+  "processed_dir": "Processed Images",
+  "add_image_name": true,
+  "metadata_fields": ["DateTime", "Make", "Model"],
+  "text_box": {
+    "color": "black",
+    "opacity": 185,
+    "padding": 20,
+    "margin": 25
+  },
+  "text": {
+    "font": "arial.ttf",
+    "size": 40,
+    "color": "white",
+    "bold_color": "red",
+    "line_spacing": 20
+  },
+  "output": {
+    "suffix": "_w_meta"
+  }
+}
+
+
