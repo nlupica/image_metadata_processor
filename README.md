@@ -123,8 +123,3 @@ You can add any of these fields to the `metadata_fields` array in `config.json` 
 2. Update the `metadata_fields` in `config.json` with fields like `Make`, `Model`, and `DateTime`.
 3. Run the script.
 4. Find processed images with overlaid metadata in the `Processed Images/` folder.
-
-## Notes
-
-- Ensure that `arial.ttf` or your specified font file is accessible in the system or update the path in `config.json`.
-- Ensure your images contain EXIF metadata for accurate processing.
