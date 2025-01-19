@@ -65,7 +65,7 @@ The application uses a `config.json` file to define settings. Below are the avai
   - `Make`
   - `Model`
 
-NOTE: These fields are depndant on your own image's metadata. With the assumption that all images are captured by the same camera, the metadata_fields.txt file will have all metadata keys available. If you have multiple images, these fields may have varying names and this may cause the code to break.
+NOTE: These fields are dependant on your own image's metadata. With the assumption that all images are captured by the same camera, the metadata_fields.txt file will have all metadata keys available. If you have multiple images, these fields may have varying names and this may cause the code to break.
 
 ### Text Box Customization
 
