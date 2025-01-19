@@ -109,11 +109,9 @@ To explore all available metadata fields for an image:
 Example output of `metadata_fields.txt`:
 
 ```
-ImageWidth
-ImageLength
+DateTime
 Make
 Model
-DateTimeOriginal
 ```
 
 You can add any of these fields to the `metadata_fields` array in `config.json` to include them in the image annotations.
