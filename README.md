@@ -77,7 +77,7 @@ NOTE: These fields are depndant on your own image's metadata. With the assumptio
 
 ### Text Customization
 
-- `text.font`: Path to the font file (e.g., `"arial.ttf"`).
+- `text.font`: Font (e.g., `"arial.ttf"`).
 - `text.size`: Font size.
 - `text.color`: Font color for the metadata values.
 - `text.bold_color`: Font color for the metadata keys.
