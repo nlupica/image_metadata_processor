@@ -20,7 +20,7 @@ The Image Metadata Processor is a Python-based tool that extracts metadata from 
 
 ```bash
 git clone "https://github.com/nlupica/image_metadata_processor.git"
-cd image_metadata_processor
+cd ".\image_metadata_processor"
 ```
 
 ### 2. Install Dependencies
